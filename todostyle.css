@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #f8f9fa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.todo-details{
+    margin: 200px auto 50px;
+    
+}
+img{
+    width: 24px;
+    border-radius: 50%;
+}
+.collabs{
+    margin-bottom: 20px;
+}
